@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-hello guys
-updateing file
-updateing line
+today is sunday
 
-=======
 hello guys 
->>>>>>> parent of 3cc8681 (updated deploy.sh)
+
